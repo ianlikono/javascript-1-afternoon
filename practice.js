@@ -79,8 +79,7 @@ var dog = {
 //variable called devMountainClassPet.
 
 //Code Here
-var devMountainClassPet = "Briton";
-dog.name = devMountainClassPet;
+var devMountainClassPet = dog.name;
 
 //Add a method to dog called bark.
 //The value of bark should be a function that returns the string "Woof woof".
